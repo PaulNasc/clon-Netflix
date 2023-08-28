@@ -1,3 +1,4 @@
+/*
 const cover = document.querySelector(*.card-Image*);
 const title = document.querySelector(*.card-content h5*);
 const artist = documento.querySelector(*.artist*);
@@ -12,3 +13,4 @@ const data = {
 };
 
 cover.style.background = 'url('') no-repeat center center 
+!!!
