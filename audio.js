@@ -14,3 +14,4 @@ const data = {
 
 cover.style.background = 'url('') no-repeat center center 
 !!!
+*/
